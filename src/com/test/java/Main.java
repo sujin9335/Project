@@ -7,4 +7,9 @@ public class Main {
 		System.out.println("프로젝트");
 		
 	}
+	
+	public void add() {
+		System.out.println("게시판 글쓰기");
+	}
+	
 }
