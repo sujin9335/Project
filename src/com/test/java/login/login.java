@@ -6,5 +6,9 @@ public class login {
 		// TODO Auto-generated method stub
 		System.out.println("로그인하기");
 	}
+	public void clear() {
+		System.out.println("로로");
+	}
+	
 
 }
